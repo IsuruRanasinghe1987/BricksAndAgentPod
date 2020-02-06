@@ -44,7 +44,7 @@ def core_pods
   pod 'iOSPhotoEditor'
   pod 'SwiftyGif', '~> 4.2.0'
   pod 'Siren'
-  pod 'CreditCardForm'
+  pod 'CreditCardForV2'
   pod 'Stripe'
   pod 'Nuke', '~> 7.6.3'
   pod 'PXSiriWave', '~> 0.0.2'
