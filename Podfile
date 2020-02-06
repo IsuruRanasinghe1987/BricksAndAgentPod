@@ -35,7 +35,7 @@ def core_pods
   pod 'PDFGenerator', '~> 3.0'
   pod 'Popover'
   pod 'Floaty', '~> 4.2.0'
-  pod 'JGProgressHUD'
+  pod 'JGProgressHUD' , :modular_headers => true
   pod 'EmptyDataSet-Swift', '~> 4.2.0'
   pod 'BlinkAnimationKit'
   pod 'Fabric'
