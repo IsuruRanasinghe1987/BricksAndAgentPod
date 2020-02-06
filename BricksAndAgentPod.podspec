@@ -53,7 +53,7 @@ Pod::Spec.new do |s|
   s.dependency 'iOSPhotoEditor'
   s.dependency 'SwiftyGif', '~> 4.2.0'
   s.dependency 'Siren'
-  s.dependency 'CreditCardForm'
+  s.dependency 'CreditCardFormV2'
   s.dependency 'Stripe'
   s.dependency 'Nuke', '~> 7.6.3'
   s.dependency 'PXSiriWave', '~> 0.0.2'

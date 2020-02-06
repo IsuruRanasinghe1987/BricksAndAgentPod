@@ -44,7 +44,7 @@ def core_pods
   pod 'iOSPhotoEditor'
   pod 'SwiftyGif', '~> 4.2.0'
   pod 'Siren'
-  pod 'CreditCardForm', :git => 'https://github.com/orazz/CreditCardForm-iOS.git', :commit => '550276f3ebbb0b1296caa106cf99f4128fe17cec'
+  pod 'CreditCardForm'
   pod 'Stripe'
   pod 'Nuke', '~> 7.6.3'
   pod 'PXSiriWave', '~> 0.0.2'
