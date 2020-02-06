@@ -22,6 +22,7 @@ def core_pods
   pod 'HCSStarRatingView', '~> 1.5'
   pod 'SwiftDate', '~> 6.0.3'
   pod 'Collection'
+  pod 'Realm' , :modular_headers => true
   pod 'RealmSwift'
   pod 'EasyDate'
   pod 'UIColor-HexString'

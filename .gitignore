@@ -1,0 +1,13 @@
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log Files
+*.log
+*.orig
+
+.DS_Store*
+xcuserdata/
+
+Podfile.lock
+Pods/
