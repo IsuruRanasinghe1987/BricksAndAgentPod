@@ -8,7 +8,6 @@ Pod::Spec.new do |s|
   s.source           = { :git => "https://github.com/FlammerSL/BricksAndAgentPod.git", :tag => s.version.to_s }
   s.platform     = :ios, '10.0'
   s.requires_arc = true
-  s.source_files = 'Source/**/*'
   s.swift_version = '5.0'
   s.frameworks = 'UIKit', 'AVFoundation', 'AVKit'
   s.dependency 'ObjectMapper', '~> 3.5.0'
