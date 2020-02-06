@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = "BricksAndAgentPod"
   s.summary          = "This is for Brins And Agent static library pod for performance improvement."
-  s.version          = "0.1.0"
+  s.version          = "0.1.1"
   s.homepage         = "https://github.com/FlammerSL/BricksAndAgentPod"
   s.license          = 'MIT'
   s.author           = {"Isuru Ranasinghe" => "ranasinghe.i.u@gmail.com"}
